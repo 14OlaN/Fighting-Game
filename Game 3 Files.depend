@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1516544589 source:c:\users\sony\documents\aa coding projects\2015-6\lesson 14\game 3 files\game mains.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+	"Game Voids.cpp"
+
+1516544688 c:\users\sony\documents\aa coding projects\2015-6\lesson 14\game 3 files\game voids.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+
+1516544286 source:c:\users\sony\documents\aa coding projects\2015-6\lesson 14\game 3 files\game voids.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+
